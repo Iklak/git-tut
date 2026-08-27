@@ -3,5 +3,5 @@ function grret() {
 }
 
 function sayHello(name) {
-  console.log("my name is :" + name);
+  console.log(`say hello ${name}`);
 }
